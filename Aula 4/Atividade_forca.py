@@ -12,7 +12,7 @@ import random
 # requisitos funcionais opcionais
 
 
-palavra_secreta = random.choice(["davi","pietro","paul"])
+palavra_secreta = random.choice(["renato","professor","sadnmghmjrersas"])
 letras_certas = []
 letras_erradas = []
 tentativas = 6
