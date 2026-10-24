@@ -43,7 +43,7 @@ imagem = qrcode.make(texto)
 
 imagem.save("qrcode.png")
 
-"""
+
 
 import cv2
 
@@ -57,3 +57,4 @@ cv2.waitKey(0)
 
 cv2.destroyAllWinsdows()
 
+"""
