@@ -9,3 +9,7 @@ while True:
         break
 camera.release()                              # Libera a câmera
 cv2.destroyAllWindows()                       # Fecha todas as janelas
+
+
+
+
