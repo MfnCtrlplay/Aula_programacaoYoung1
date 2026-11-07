@@ -1,0 +1,3 @@
+Escrevendo um arquivo em Python!!!
+Adicionando mais Texto
+Adicionando mais Texto
